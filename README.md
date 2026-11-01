@@ -24,9 +24,9 @@ Music player offline/online simple, bisa ganti judul, artis langsung di HP.
 ### 📸 Preview
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/teddycihuyy/Music-Player-V1.0.2/root/icon-1.jpg" width="30%" />
-  <img src="https://raw.githubusercontent.com/teddycihuyy/Music-Player-V1.0.2/root/icon-2.jpg" width="30%" />
-  <img src="https://raw.githubusercontent.com/teddycihuyy/Music-Player-V1.0.2/root/icon-3.jpg" width="30%" />
+  <img src="https://raw.githubusercontent.com/teddycihuyy/Music-Player/root/icon-1.jpg" width="30%" />
+  <img src="https://raw.githubusercontent.com/teddycihuyy/Music-Player/root/icon-2.jpg" width="30%" />
+  <img src="https://raw.githubusercontent.com/teddycihuyy/Music-Player/root/icon-3.jpg" width="30%" />
 </p>
 <p align="center">
   <sub>Tap titik 3 untuk edit lagu • Tampilan player • Daftar lagu offline</sub>
