@@ -7,7 +7,7 @@ Music player offline/online simple, bisa ganti judul, artis langsung di HP.
 | Versi | Apa yang baru | Download | Tanggal |
 | :--- | :--- | :---: | :---: |
 | **V1.0.2 (Latest)** | + Fitur ganti judul, fix UI | [**Download**](https://github.com/teddycihuyy/Music-Player-V1.0.2/releases/download/v1.0.2/app.apk) | 2 Nov 2026 |
-| V1.0.1 | Versi awal busuk njir | [Download](https://github.com/teddycihuyy/Music-Player-V1.0.2/releases/download/v1.0.1/app-v1.0.1.apk) | 1 Nov 2026 |
+| V1.0.1 | Versi awal busuk njir | [Download](https://github.com/teddycihuyy/Music-Player/releases/download/v1.0/MusicPlayerBeta.apk) | 31 Okt 2026 |
 
 > Selalu download yang **Latest** ya. Yang lama buat cadangan aja kalo yang baru error.
 
