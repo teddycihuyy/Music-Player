@@ -1,4 +1,4 @@
-# 🎵 Music Player V1.0.2
+# 🎵 Music Player
 
 Music player offline/online simple, bisa ganti judul, artis langsung di HP.
 
