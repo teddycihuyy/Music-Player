@@ -2,17 +2,14 @@
 
 Music player offline/online simple, bisa ganti judul, artis langsung di HP.
 
-### 📥 Download APK (Gratis)
+### 📥 Download APK
 
-<p>
-<a href="https://github.com/teddycihuyy/Music-Player-V1.0.2/releases/download/v1.0.2/app.apk">
-<img src="https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android" />
-</a>
-<br/>
-<small>Versi: V1.0.2 | Size: 71MB | Android 7.0+</small>
-</p>
+| Versi | Apa yang baru | Download | Tanggal |
+| :--- | :--- | :---: | :---: |
+| **V1.0.2 (Latest)** | + Fitur ganti judul, fix UI | [**Download**](https://github.com/teddycihuyy/Music-Player-V1.0.2/releases/download/v1.0.2/app.apk) | 2 Nov 2026 |
+| V1.0.1 | Versi awal busuk njir | [Download](https://github.com/teddycihuyy/Music-Player-V1.0.2/releases/download/v1.0.1/app-v1.0.1.apk) | 1 Nov 2026 |
 
-> Kalo belum ada di Releases, upload dulu APK lu di Menu GitHub > Releases > Draft new release > upload APK
+> Selalu download yang **Latest** ya. Yang lama buat cadangan aja kalo yang baru error.
 
 ---
 
@@ -21,7 +18,7 @@ Music player offline/online simple, bisa ganti judul, artis langsung di HP.
 - ✅ Play lagu offline dari storage
 - ✅ Ganti Judul Lagu (klik :)
 - ✅ Ganti Artis
-- ✅ Ganti Thumbnail / Cover (NEW)
+- ✅ Timer, EQ, Speed (NEW)
 - ✅ UI Dark, ringan
 
 ### 📸 Preview
